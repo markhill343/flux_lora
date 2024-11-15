@@ -1,4 +1,4 @@
-![FluxDevFp8_00448_](https://github.com/user-attachments/assets/cab044b8-28bc-4f90-a2d2-d219664c966e)# Diving into Consistent Product Image Creation with Flux
+# Diving into Consistent Product Image Creation with Flux
 
 Hey everyone!
 
