@@ -1,10 +1,11 @@
-# Diving into Consistent Product Image Creation with Flux
+![FluxDevFp8_00448_](https://github.com/user-attachments/assets/cab044b8-28bc-4f90-a2d2-d219664c966e)# Diving into Consistent Product Image Creation with Flux
 
 Hey everyone!
 
 I've been using my downtime before starting my master's thesis to dive into the world of local fine-tuning of generative models. 🎓 This post is all about **creating LoRAs for product images using Fluxgym**, and I thought it'd be fun to share my journey with you!
 
 ---
+![Screenshot from 2024-11-15 15-05-57](https://github.com/user-attachments/assets/7492bccb-7857-472a-ac88-ecc105504e44)
 
 ## So, What's a LoRA Anyway?
 
@@ -33,6 +34,7 @@ Basically, **LoRAs let you customize models without the heavy lifting**, making 
 ### Data:
 
 - **10-30 Images **:
+![10](https://github.com/user-attachments/assets/8faf2178-b52c-4e9a-9eb4-2e7f12d122cd)
 
 ---
 
@@ -74,7 +76,7 @@ Feel free to tweak these settings—they can affect training time and how well y
 
 Now for the exciting part!
 
-- **Start Training**: Kick off the process and watch the magic happen.
+- **Start Training**: Kick off the process
 - **Monitor Progress**: On my 4070 Ti, it took about **1 hour**.
 - **Energy Consumption**: Approximately **0.124 kWh**—pretty efficient!
 
@@ -84,12 +86,17 @@ Now for the exciting part!
 
 Time to see your model in action:
 
-- **Load it into ComfyUI**: It's straightforward.
+- **Load it into ComfyUI**:
 - **Generate Some Examples**: Watch your custom model bring your product to life!
 
 *Check the end of this post for GitHub links and the ComfyUI workflow attached.*
 
 I was thrilled to see the rubber duck rendered in various styles and settings. The possibilities are endless!
+![Screenshot from 2024-11-15 14-42-35](https://github.com/user-attachments/assets/03a37837-2528-40dc-a225-015864f45b47)
+![FluxDevFp8_00454_](https://github.com/user-attachments/assets/8186efc8-359e-4f02-a0a2-3672fbc740ba)
+![FluxDevFp8_00448_](https://github.com/user-attachments/assets/b5ebcc11-a058-4221-a837-3c12c08a80a1)
+![FluxDevFp8_00452_](https://github.com/user-attachments/assets/7a2635c0-22cf-421a-b33a-e06fd76727d7)
+![FluxDevFp8_00450_](https://github.com/user-attachments/assets/99880d04-7c77-4088-9395-6e895c55723a)
 
 ---
 
