@@ -1,4 +1,4 @@
-# Diving into Product Consistent Image Creation with Flux
+# Diving into Consistent Product Image Creation with Flux
 
 Hey everyone!
 
